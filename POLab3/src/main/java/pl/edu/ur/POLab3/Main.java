@@ -7,7 +7,10 @@ package pl.edu.ur.POLab3;
 
 import java.util.Scanner;
 
-
+/**
+ *
+ * @author Asia
+ */
 public class Main {
 
     /**
